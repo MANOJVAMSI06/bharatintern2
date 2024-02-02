@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background:url('https://th.bing.com/th/id/OIG4.fXSqOVG_GOuyennP.KaH?w=1024&h=1024&rs=1&pid=ImgDetMain');
+  background-size: cover;
+}
+
+header {
+  
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+ 
+}
+
+main {
+  
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color:transparent;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  border:solid rgb(248, 124, 1) 6px;
+  
+  
+}
+
+#post-form, #posts {
+  margin-bottom: 20px;
+  color: rgb(10, 0, 0);
+  
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+  color: rgb(0, 0, 0);
+}
+
+textarea, input {
+  margin-bottom: 10px;
+  padding: 5px;
+  background: transparent;
+  border: solid hsl(36, 22%, 95%);
+  
+}
+
+button {
+  margin-top: 30px;
+  background:transparent;
+  color: #000000;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: -30px;
+  max-width: 300px;
+  margin-left: 250px;
+  border:solid hsl(45, 25%, 97%);
+}
+
+footer {
+  margin-top: 100px;
+  color: rgb(0, 0, 0);
+  padding: 1em;
+  text-align: center;
+  border:solid rgb(255, 149, 0);
+  backdrop-filter: blur(8px) ;
+  
+}
+.hii
+{
+  border-style: none;
+}
+.llb
+{
+  color: black;
+}
